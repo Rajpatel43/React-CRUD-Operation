@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Rajpatel43.github.io/React-CRUD-Operation/static/css/main.9a39b45b.css",
+    "main.js": "/Rajpatel43.github.io/React-CRUD-Operation/static/js/main.bb6c1fce.js",
+    "static/media/png.png": "/Rajpatel43.github.io/React-CRUD-Operation/static/media/png.d4458c765162c3abae7f.png",
+    "index.html": "/Rajpatel43.github.io/React-CRUD-Operation/index.html",
+    "main.9a39b45b.css.map": "/Rajpatel43.github.io/React-CRUD-Operation/static/css/main.9a39b45b.css.map",
+    "main.bb6c1fce.js.map": "/Rajpatel43.github.io/React-CRUD-Operation/static/js/main.bb6c1fce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a39b45b.css",
+    "static/js/main.bb6c1fce.js"
+  ]
+}
